@@ -51,4 +51,6 @@ public class EventRegistrationRepository {
         return e;
     }
 
+    //Test travis skip build function
+
 }
