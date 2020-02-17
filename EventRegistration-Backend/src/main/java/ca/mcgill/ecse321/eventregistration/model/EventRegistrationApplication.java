@@ -1,4 +1,4 @@
-package ca.mcgill.ecse321.eventregistration;
+package ca.mcgill.ecse321.eventregistration.model;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
