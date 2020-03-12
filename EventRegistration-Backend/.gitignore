@@ -1,4 +1,5 @@
 *.un~
+*.~
 HELP.md
 .gradle
 build/
