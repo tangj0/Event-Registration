@@ -1,7 +1,9 @@
 .gradle/
+.settings/
 build/
 .idea/
 ..gitignore.un~
 .gitignore~
 *.java.un~
 *.java~
+*.un~
